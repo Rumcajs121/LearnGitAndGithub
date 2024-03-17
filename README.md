@@ -1,6 +1,6 @@
 # Programming Paradigms and Languages + Git and GitHub
 
-During my studies, I am simultaneously learning about Git and GitHub technology while also preparing exercises in the Programming Paradigms and Languages subject.
+I'm learning git and github technology from the book "GIT and GITHUB" by Mariot Tsitoar while at the same time I do practical exercises in C# by solving tasks from project eulrea: https://projecteuler.net/about. below are the exercises I have solved.
 
 ## Completed Tasks:
 

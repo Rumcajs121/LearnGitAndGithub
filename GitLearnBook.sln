@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitLearnBook", "GitLearnBook\GitLearnBook.csproj", "{5039E08F-8E40-423C-904E-18CCFA680F0E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitLearnBook1", "GitLearnBook1\GitLearnBook1.csproj", "{23A55C7C-79FA-4E86-B7AA-45727AC25748}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{5039E08F-8E40-423C-904E-18CCFA680F0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5039E08F-8E40-423C-904E-18CCFA680F0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5039E08F-8E40-423C-904E-18CCFA680F0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23A55C7C-79FA-4E86-B7AA-45727AC25748}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23A55C7C-79FA-4E86-B7AA-45727AC25748}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23A55C7C-79FA-4E86-B7AA-45727AC25748}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23A55C7C-79FA-4E86-B7AA-45727AC25748}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

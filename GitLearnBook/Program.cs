@@ -62,3 +62,4 @@ public string GetFourDigitNumber(int number){
 }
 
 //test first pull request
+//poprawiłem wszytsko i ejst ok

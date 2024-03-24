@@ -22,3 +22,5 @@ for(var start = 1000000U; start>0; start--){
 var answer=startNumber;
 
 System.Console.WriteLine($"Wynik dla warunków w zadaniu to: {answer}");
+
+//tu tez

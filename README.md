@@ -5,4 +5,5 @@ I'm learning git and github technology from the book "GIT and GITHUB" by Mariot 
 ## Completed Tasks:
 
 * **Problem 17 - Number Letter Counts**: This task involved solving the problem related to counting letters in numbers.
-* **Problem 14 - Longest Collatz Sequence**: Implemented in Markdown, this task focused on finding the longest Collatz sequence.
+* **Problem 14 - Longest Collatz Sequence**: Implemented in Markdown, this task focused on finding the longest Collatz sequence
+test.

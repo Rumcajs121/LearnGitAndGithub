@@ -60,3 +60,6 @@ public string GetFourDigitNumber(int number){
    return this.GetThreeDigitNumber(number);
 }
 }
+
+//test first pull request
+//poprawiłem wszytsko i ejst ok

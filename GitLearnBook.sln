@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitLearnBook", "GitLearnBoo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitLearnBook1", "GitLearnBook1\GitLearnBook1.csproj", "{23A55C7C-79FA-4E86-B7AA-45727AC25748}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitLearnBook2", "GitLearnBook2\GitLearnBook2.csproj", "{B36A43C6-8998-4F6E-89B4-D17D185B444B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitLearnBook3", "GitLearnBook3\GitLearnBook3.csproj", "{2E263E6E-3DC7-4AAD-A453-7D43B4577CC1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +28,13 @@ Global
 		{23A55C7C-79FA-4E86-B7AA-45727AC25748}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{23A55C7C-79FA-4E86-B7AA-45727AC25748}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{23A55C7C-79FA-4E86-B7AA-45727AC25748}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B36A43C6-8998-4F6E-89B4-D17D185B444B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B36A43C6-8998-4F6E-89B4-D17D185B444B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B36A43C6-8998-4F6E-89B4-D17D185B444B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B36A43C6-8998-4F6E-89B4-D17D185B444B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E263E6E-3DC7-4AAD-A453-7D43B4577CC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E263E6E-3DC7-4AAD-A453-7D43B4577CC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E263E6E-3DC7-4AAD-A453-7D43B4577CC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E263E6E-3DC7-4AAD-A453-7D43B4577CC1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

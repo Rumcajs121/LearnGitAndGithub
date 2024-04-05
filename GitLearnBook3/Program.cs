@@ -1,7 +1,5 @@
 ﻿ArithmeticMean mean = new ArithmeticMean();
-//Example 1
 var meanResult = mean.MeanScores(4, 5, 7, 8, 9, 10);
-//Example 2
 List<double> list = new List<double>() { 1.3, 2.5, 3.2, 4.1, 5.0 };
 double[] arr = new double[] { 1, 2, 34, 56, 2 };
 
